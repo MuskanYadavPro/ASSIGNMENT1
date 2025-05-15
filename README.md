@@ -1,9 +1,5 @@
 # ASSIGNMENT1
-# Python Basic Programs
-
-This repository contains simple Python scripts for basic arithmetic operations and string formatting. These are part of an assignment submission.
-
-## 📁 Contents
+# Python Basic Concept
 
 ### 🔹 Task 1: Basic Arithmetic Operations
 **File:** `task1_calculator.py`  
